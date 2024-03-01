@@ -1,0 +1,15 @@
+{
+  "name": "myjs",
+  "version": "1.0.0",
+  "description": "The first javascript for learning",
+  "main": "subsdcribe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wenbo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
